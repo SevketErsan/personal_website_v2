@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+*{
+    background-color: lightgoldenrodyellow;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.page_name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
